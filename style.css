@@ -81,6 +81,11 @@ nav a {
 
 /* sheard common */
 
+main{
+  max-width: 1140px;
+  margin: 0 auto;
+}
+
 .section-title {
   color: #181818;
   text-align: center;
@@ -99,4 +104,14 @@ nav a {
   background: #fff8f3;
   border-radius: 10px;
   margin: 130px 0;
+}
+
+.about-info-container{
+  display: flex;
+  justify-content: space-around;
+
+}
+
+.about-info{
+  text-align: center;
 }
