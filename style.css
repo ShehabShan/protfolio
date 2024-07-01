@@ -119,12 +119,9 @@ main {
   padding: 30px 150px;
 }
 
-
-main section{
+main section {
   margin-top: 130px;
 }
-
-
 
 .skills-container {
   display: flex;
@@ -154,43 +151,51 @@ main section{
 }
 
 /* resume container */
-.h3-title{
+.h3-title {
   margin-top: 130px;
   font-size: 35px;
   font-weight: bold;
   text-align: center;
 }
-.resume-section{
+.resume-section {
   display: flex;
   gap: 50px;
 }
 
-.resume-start{
+.resume-start {
   display: flex;
   gap: 50px;
   margin-top: 130px;
 }
-.resume-container{
+.resume-container {
 }
-.resume-colume{
+.resume-colume {
   margin: 30px 0;
 }
-.resume-title{
+.resume-title {
   color: #474747;
   font-size: 25px;
   font-weight: 700;
   padding-bottom: 17px;
 }
-.resume-institude{
+.resume-institude {
   font-size: 20px;
   font-weight: bold;
   padding-bottom: 13px;
 }
 
-.resume-institude, .resume-description{
+.resume-institude,
+.resume-description {
   color: #757575;
 }
 
-.download-cv{
+.download-cv {
   text-align: center;
+}
+
+footer{
+  display: flex;
+  background: #fff8f3;
+  padding: 130px 250px;
+  margin-top: 130px;
 }
